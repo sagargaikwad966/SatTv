@@ -1,0 +1,12 @@
+1. Import the SatTv folder in any IDE.
+
+2. Add the external Jar Jackson.jar from ref lib directory.
+
+3. Run the SatTVDataBuilder file to create Dummy data for Application
+
+4. Run the SatTVApp file which is the actual Application.
+
+5. Due to time constraing not able to write TestCases & Custom Validations.
+
+Thank you,
+Sagar Gaikwad
